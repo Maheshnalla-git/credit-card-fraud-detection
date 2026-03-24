@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+🚀 Machine Learning Project | Credit Card Fraud Detection using SMOTE
 
 ## Project Overview
 This project builds a machine learning model to detect fraudulent credit card transactions using a real-world Kaggle dataset.
